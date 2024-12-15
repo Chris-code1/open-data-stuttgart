@@ -1,0 +1,153 @@
+Stadtteil Nr.;Stadtteil;Stadtbezirk Nr.;Stadtbezirk;Anz_Sozialmietwohnungen;AntSozmietwohnungen_am_Wohnungsbestand
+101;Oberer Schlossgarten;01;Mitte;;0,0
+102;Rathaus;01;Mitte;258;11,8
+103;Neue Vorstadt;01;Mitte;23;2,4
+104;Universität;01;Mitte;64;14,3
+105;Europaviertel;01;Mitte;;0,0
+106;Hauptbahnhof;01;Mitte;;0,0
+107;Kernerviertel;01;Mitte;21;0,7
+108;Diemershalde;01;Mitte;16;1,3
+109;Dobel;01;Mitte;;0,0
+110;Heusteigviertel;01;Mitte;40;1,7
+121;Relenberg;02;Nord;171;5,2
+122;Lenzhalde;02;Nord;;0,0
+123;Am Bismarckturm;02;Nord;;0,0
+124;Killesberg;02;Nord;;0,0
+125;Weißenhof;02;Nord;17;1,1
+126;Nordbahnhof;02;Nord;82;12,8
+127;Am Pragfriedhof;02;Nord;14;1,0
+128;Am Rosensteinpark;02;Nord;;0,0
+129;Auf der Prag;02;Nord;205;7,1
+130;Mönchhalde;02;Nord;11;0,8
+131;Heilbronner Straße;02;Nord;273;23,6
+141;Gänsheide;03;Ost;;0,0
+142;Uhlandshöhe;03;Ost;;0,0
+143;Stöckach;03;Ost;156;5,7
+144;Berg;03;Ost;212;15,2
+145;Ostheim;03;Ost;417;5,5
+146;Gaisburg;03;Ost;175;3,9
+147;Gablenberg;03;Ost;7;0,1
+151;Frauenkopf;03;Ost;;0,0
+161;Bopser;04;Süd;11;0,7
+162;Lehen;04;Süd;162;2,6
+163;Weinsteige;04;Süd;31;2,5
+164;Karlshöhe;04;Süd;25;0,9
+165;Heslach;04;Süd;176;2,9
+166;Südheim;04;Süd;27;0,9
+171;Kaltental;04;Süd;63;2,0
+181;Kräherwald;05;West;59;1,6
+182;Hölderlinplatz;05;West;17;0,6
+183;Rosenberg;05;West;153;2,7
+184;Feuersee;05;West;222;6,1
+185;Rotebühl;05;West;65;1,0
+186;Vogelsang;05;West;56;1,1
+187;Hasenberg;05;West;49;1,9
+191;Wildpark;05;West;;0,0
+192;Solitude;05;West;;0,0
+201;Muckensturm;06;Bad Cannstatt;61;4,9
+202;Schmidener Vorstadt;06;Bad Cannstatt;125;4,1
+203;Espan;06;Bad Cannstatt;163;7,5
+204;Kurpark;06;Bad Cannstatt;84;3,3
+205;Cannstatt-Mitte;06;Bad Cannstatt;64;2,8
+206;Seelberg;06;Bad Cannstatt;37;0,9
+207;Winterhalde;06;Bad Cannstatt;4;0,2
+208;Wasen;06;Bad Cannstatt;;0,0
+209;Veielbrunnen;06;Bad Cannstatt;13;1,1
+210;Im Geiger;06;Bad Cannstatt;138;5,6
+211;Neckarvorstadt;06;Bad Cannstatt;128;7,0
+212;Pragstraße;06;Bad Cannstatt;;0,0
+213;Altenburg;06;Bad Cannstatt;1;0,1
+214;Hallschlag;06;Bad Cannstatt;631;17,7
+215;Birkenäcker;06;Bad Cannstatt;335;17,5
+221;Burgholzhof;06;Bad Cannstatt;187;16,2
+231;Sommerrain;06;Bad Cannstatt;;0,0
+241;Steinhaldenfeld;06;Bad Cannstatt;46;2,9
+261;Birkach-Nord;07;Birkach;136;13,0
+262;Birkach-Süd;07;Birkach;91;4,4
+271;Schönberg;07;Birkach;;0,0
+292;Botnang-Nord;08;Botnang;290;16,8
+293;Botnang-Ost;08;Botnang;65;4,0
+294;Botnang-Süd;08;Botnang;38;1,6
+295;Botnang-West;08;Botnang;2;0,2
+311;Degerloch;09;Degerloch;158;3,4
+312;Waldau;09;Degerloch;;0,0
+313;Tränke;09;Degerloch;16;11,3
+314;Haigst;09;Degerloch;;0,0
+321;Hoffeld;09;Degerloch;;0,0
+341;Feuerbach-Ost;10;Feuerbach;;0,0
+342;Siegelberg;10;Feuerbach;1;0,3
+343;Bahnhof Feuerbach;10;Feuerbach;101;5,2
+344;Feuerbach-Mitte;10;Feuerbach;95;2,6
+345;Lemberg/Föhrich;10;Feuerbach;141;3,7
+346;Hohe Warte;10;Feuerbach;225;8,6
+347;Feuerbacher Tal;10;Feuerbach;17;0,6
+348;An der Burg;10;Feuerbach;;0,0
+361;Hedelfingen;11;Hedelfingen;60;2,2
+362;Hafen;11;Hedelfingen;;0,0
+371;Lederberg;11;Hedelfingen;;0,0
+381;Rohracker;11;Hedelfingen;130;7,4
+401;Möhringen-Nord;12;Möhringen;40;2,3
+402;Möhringen-Mitte;12;Möhringen;35;0,8
+403;Wallgraben-Ost;12;Möhringen;;0,0
+404;Möhringen-Süd;12;Möhringen;6;0,3
+405;Möhringen-Ost;12;Möhringen;64;1,9
+406;Sternhäule;12;Möhringen;;0,0
+407;Fasanenhof-Ost;12;Möhringen;;0,0
+411;Fasanenhof;12;Möhringen;331;8,9
+421;Sonnenberg;12;Möhringen;;0,0
+441;Mühlhausen;13;Mühlhausen;17;1,1
+451;Freiberg;13;Mühlhausen;395;10,8
+461;Mönchfeld;13;Mühlhausen;56;3,6
+471;Hofen;13;Mühlhausen;28;1,2
+481;Neugereut;13;Mühlhausen;624;17,8
+501;Münster;14;Münster;21;0,6
+521;Obertürkheim;15;Obertürkheim;254;9,3
+531;Uhlbach;15;Obertürkheim;12;0,8
+551;Plieningen;16;Plieningen;17;0,4
+552;Chausseefeld;16;Plieningen;134;25,1
+561;Steckfeld;16;Plieningen;46;3,8
+571;Asemwald;16;Plieningen;;0,0
+581;Hohenheim;16;Plieningen;;0,0
+601;Sillenbuch;17;Sillenbuch;13;0,3
+611;Heumaden;17;Sillenbuch;191;3,7
+621;Riedenberg;17;Sillenbuch;428;11,2
+641;Stammheim-Süd;18;Stammheim;78;3,0
+642;Stammheim-Mitte;18;Stammheim;266;7,6
+661;Gehrenwald;19;Untertürkheim;14;0,9
+662;Flohberg;19;Untertürkheim;;0,0
+663;Untertürkheim;19;Untertürkheim;145;3,8
+664;Benzviertel;19;Untertürkheim;;0,0
+665;Lindenschulviertel;19;Untertürkheim;;0,0
+666;Bruckwiesen;19;Untertürkheim;;#DIV/0!
+671;Luginsland;19;Untertürkheim;101;7,1
+681;Rotenberg;19;Untertürkheim;;0,0
+711;Vaihingen-Mitte;20;Vaihingen;73;1,8
+712;Österfeld;20;Vaihingen;;0,0
+713;Höhenrand;20;Vaihingen;;0,0
+714;Wallgraben-West;20;Vaihingen;2;0,4
+715;Rosental;20;Vaihingen;168;8,7
+716;Heerstraße;20;Vaihingen;30;1,1
+717;Lauchäcker;20;Vaihingen;440;38,7
+718;Dachswald;20;Vaihingen;78;2,9
+719;Pfaffenwald;20;Vaihingen;105;4,0
+721;Büsnau;20;Vaihingen;197;14,6
+731;Rohr;20;Vaihingen;19;0,4
+741;Dürrlewang;20;Vaihingen;222;10,9
+761;Wangen;21;Wangen;158;3,4
+801;Weilimdorf;22;Weilimdorf;856;10,3
+802;Weilimdorf-Nord;22;Weilimdorf;;0,0
+811;Bergheim;22;Weilimdorf;8;0,5
+821;Giebel;22;Weilimdorf;215;7,5
+831;Hausen;22;Weilimdorf;235;17,5
+841;Wolfbusch;22;Weilimdorf;39;3,0
+861;Zuffenhausen-Am Stadtpark;23;Zuffenhausen;196;11,9
+862;Zuffenhausen-Schützenbühl;23;Zuffenhausen;15;1,8
+863;Zuffenhausen-Elbelen;23;Zuffenhausen;9;2,7
+864;Zuffenhausen-Frauensteg;23;Zuffenhausen;;0,0
+865;Zuffenhausen-Mitte;23;Zuffenhausen;86;2,6
+866;Zuffenhausen-Hohenstein;23;Zuffenhausen;51;3,0
+867;Zuffenhausen-Mönchsberg;23;Zuffenhausen;549;25,5
+868;Zuffenhausen-Im Raiser;23;Zuffenhausen;42;9,2
+871;Neuwirtshaus;23;Zuffenhausen;;0,0
+881;Rot;23;Zuffenhausen;395;7,3
+891;Zazenhausen;23;Zuffenhausen;115;9,6
