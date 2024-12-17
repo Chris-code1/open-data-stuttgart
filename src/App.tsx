@@ -18,6 +18,7 @@ import {
   CssBaseline
 } from '@mui/material';
 import DataChart from './components/DataChart';
+import StatsChart from './components/StatsChart';
 import MapComponent from './components/MapComponent';
 
 function App() {
@@ -74,6 +75,9 @@ function App() {
           ))}
           <Grid item xs={12}>
             <DataChart />
+          </Grid>
+          <Grid item xs={12}>
+            <StatsChart />
           </Grid>
           <Grid item xs={12} md={6}>
             <MapComponent variableName='AntSozmietwohnungen_am_Wohnungsbestand' title='Anteil Sozialmietwohnungen am Wohnungsbestand' max={16}/>
