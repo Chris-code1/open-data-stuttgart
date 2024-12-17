@@ -1,0 +1,1218 @@
+[
+  {
+    "STADTTEILNR": 101,
+    "Stadtteil": "Oberer Schlossgarten",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 102,
+    "Stadtteil": "Rathaus",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": 258,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "11,8"
+  },
+  {
+    "STADTTEILNR": 103,
+    "Stadtteil": "Neue Vorstadt",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": 23,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,4"
+  },
+  {
+    "STADTTEILNR": 104,
+    "Stadtteil": "Universit�t",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": 64,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "14,3"
+  },
+  {
+    "STADTTEILNR": 105,
+    "Stadtteil": "Europaviertel",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 106,
+    "Stadtteil": "Hauptbahnhof",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 107,
+    "Stadtteil": "Kernerviertel",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": 21,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,7"
+  },
+  {
+    "STADTTEILNR": 108,
+    "Stadtteil": "Diemershalde",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": 16,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,3"
+  },
+  {
+    "STADTTEILNR": 109,
+    "Stadtteil": "Dobel",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 110,
+    "Stadtteil": "Heusteigviertel",
+    "Stadtbezirk Nr.": "01",
+    "Stadtbezirk": "Mitte",
+    "Anz_Sozialmietwohnungen": 40,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,7"
+  },
+  {
+    "STADTTEILNR": 121,
+    "Stadtteil": "Relenberg",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": 171,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "5,2"
+  },
+  {
+    "STADTTEILNR": 122,
+    "Stadtteil": "Lenzhalde",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 123,
+    "Stadtteil": "Am Bismarckturm",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 124,
+    "Stadtteil": "Killesberg",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 125,
+    "Stadtteil": "Wei�enhof",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": 17,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,1"
+  },
+  {
+    "STADTTEILNR": 126,
+    "Stadtteil": "Nordbahnhof",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": 82,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "12,8"
+  },
+  {
+    "STADTTEILNR": 127,
+    "Stadtteil": "Am Pragfriedhof",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": 14,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,0"
+  },
+  {
+    "STADTTEILNR": 128,
+    "Stadtteil": "Am Rosensteinpark",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 129,
+    "Stadtteil": "Auf der Prag",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": 205,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "7,1"
+  },
+  {
+    "STADTTEILNR": 130,
+    "Stadtteil": "M�nchhalde",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": 11,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,8"
+  },
+  {
+    "STADTTEILNR": 131,
+    "Stadtteil": "Heilbronner Stra�e",
+    "Stadtbezirk Nr.": "02",
+    "Stadtbezirk": "Nord",
+    "Anz_Sozialmietwohnungen": 273,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "23,6"
+  },
+  {
+    "STADTTEILNR": 141,
+    "Stadtteil": "G�nsheide",
+    "Stadtbezirk Nr.": "03",
+    "Stadtbezirk": "Ost",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 142,
+    "Stadtteil": "Uhlandsh�he",
+    "Stadtbezirk Nr.": "03",
+    "Stadtbezirk": "Ost",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 143,
+    "Stadtteil": "St�ckach",
+    "Stadtbezirk Nr.": "03",
+    "Stadtbezirk": "Ost",
+    "Anz_Sozialmietwohnungen": 156,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "5,7"
+  },
+  {
+    "STADTTEILNR": 144,
+    "Stadtteil": "Berg",
+    "Stadtbezirk Nr.": "03",
+    "Stadtbezirk": "Ost",
+    "Anz_Sozialmietwohnungen": 212,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "15,2"
+  },
+  {
+    "STADTTEILNR": 145,
+    "Stadtteil": "Ostheim",
+    "Stadtbezirk Nr.": "03",
+    "Stadtbezirk": "Ost",
+    "Anz_Sozialmietwohnungen": 417,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "5,5"
+  },
+  {
+    "STADTTEILNR": 146,
+    "Stadtteil": "Gaisburg",
+    "Stadtbezirk Nr.": "03",
+    "Stadtbezirk": "Ost",
+    "Anz_Sozialmietwohnungen": 175,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,9"
+  },
+  {
+    "STADTTEILNR": 147,
+    "Stadtteil": "Gablenberg",
+    "Stadtbezirk Nr.": "03",
+    "Stadtbezirk": "Ost",
+    "Anz_Sozialmietwohnungen": 7,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,1"
+  },
+  {
+    "STADTTEILNR": 151,
+    "Stadtteil": "Frauenkopf",
+    "Stadtbezirk Nr.": "03",
+    "Stadtbezirk": "Ost",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 161,
+    "Stadtteil": "Bopser",
+    "Stadtbezirk Nr.": "04",
+    "Stadtbezirk": "S�d",
+    "Anz_Sozialmietwohnungen": 11,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,7"
+  },
+  {
+    "STADTTEILNR": 162,
+    "Stadtteil": "Lehen",
+    "Stadtbezirk Nr.": "04",
+    "Stadtbezirk": "S�d",
+    "Anz_Sozialmietwohnungen": 162,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,6"
+  },
+  {
+    "STADTTEILNR": 163,
+    "Stadtteil": "Weinsteige",
+    "Stadtbezirk Nr.": "04",
+    "Stadtbezirk": "S�d",
+    "Anz_Sozialmietwohnungen": 31,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,5"
+  },
+  {
+    "STADTTEILNR": 164,
+    "Stadtteil": "Karlsh�he",
+    "Stadtbezirk Nr.": "04",
+    "Stadtbezirk": "S�d",
+    "Anz_Sozialmietwohnungen": 25,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,9"
+  },
+  {
+    "STADTTEILNR": 165,
+    "Stadtteil": "Heslach",
+    "Stadtbezirk Nr.": "04",
+    "Stadtbezirk": "S�d",
+    "Anz_Sozialmietwohnungen": 176,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,9"
+  },
+  {
+    "STADTTEILNR": 166,
+    "Stadtteil": "S�dheim",
+    "Stadtbezirk Nr.": "04",
+    "Stadtbezirk": "S�d",
+    "Anz_Sozialmietwohnungen": 27,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,9"
+  },
+  {
+    "STADTTEILNR": 171,
+    "Stadtteil": "Kaltental",
+    "Stadtbezirk Nr.": "04",
+    "Stadtbezirk": "S�d",
+    "Anz_Sozialmietwohnungen": 63,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,0"
+  },
+  {
+    "STADTTEILNR": 181,
+    "Stadtteil": "Kr�herwald",
+    "Stadtbezirk Nr.": "05",
+    "Stadtbezirk": "West",
+    "Anz_Sozialmietwohnungen": 59,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,6"
+  },
+  {
+    "STADTTEILNR": 182,
+    "Stadtteil": "H�lderlinplatz",
+    "Stadtbezirk Nr.": "05",
+    "Stadtbezirk": "West",
+    "Anz_Sozialmietwohnungen": 17,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,6"
+  },
+  {
+    "STADTTEILNR": 183,
+    "Stadtteil": "Rosenberg",
+    "Stadtbezirk Nr.": "05",
+    "Stadtbezirk": "West",
+    "Anz_Sozialmietwohnungen": 153,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,7"
+  },
+  {
+    "STADTTEILNR": 184,
+    "Stadtteil": "Feuersee",
+    "Stadtbezirk Nr.": "05",
+    "Stadtbezirk": "West",
+    "Anz_Sozialmietwohnungen": 222,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "6,1"
+  },
+  {
+    "STADTTEILNR": 185,
+    "Stadtteil": "Roteb�hl",
+    "Stadtbezirk Nr.": "05",
+    "Stadtbezirk": "West",
+    "Anz_Sozialmietwohnungen": 65,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,0"
+  },
+  {
+    "STADTTEILNR": 186,
+    "Stadtteil": "Vogelsang",
+    "Stadtbezirk Nr.": "05",
+    "Stadtbezirk": "West",
+    "Anz_Sozialmietwohnungen": 56,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,1"
+  },
+  {
+    "STADTTEILNR": 187,
+    "Stadtteil": "Hasenberg",
+    "Stadtbezirk Nr.": "05",
+    "Stadtbezirk": "West",
+    "Anz_Sozialmietwohnungen": 49,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,9"
+  },
+  {
+    "STADTTEILNR": 191,
+    "Stadtteil": "Wildpark",
+    "Stadtbezirk Nr.": "05",
+    "Stadtbezirk": "West",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 192,
+    "Stadtteil": "Solitude",
+    "Stadtbezirk Nr.": "05",
+    "Stadtbezirk": "West",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 201,
+    "Stadtteil": "Muckensturm",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 61,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "4,9"
+  },
+  {
+    "STADTTEILNR": 202,
+    "Stadtteil": "Schmidener Vorstadt",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 125,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "4,1"
+  },
+  {
+    "STADTTEILNR": 203,
+    "Stadtteil": "Espan",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 163,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "7,5"
+  },
+  {
+    "STADTTEILNR": 204,
+    "Stadtteil": "Kurpark",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 84,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,3"
+  },
+  {
+    "STADTTEILNR": 205,
+    "Stadtteil": "Cannstatt-Mitte",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 64,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,8"
+  },
+  {
+    "STADTTEILNR": 206,
+    "Stadtteil": "Seelberg",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 37,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,9"
+  },
+  {
+    "STADTTEILNR": 207,
+    "Stadtteil": "Winterhalde",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 4,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,2"
+  },
+  {
+    "STADTTEILNR": 208,
+    "Stadtteil": "Wasen",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 209,
+    "Stadtteil": "Veielbrunnen",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 13,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,1"
+  },
+  {
+    "STADTTEILNR": 210,
+    "Stadtteil": "Im Geiger",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 138,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "5,6"
+  },
+  {
+    "STADTTEILNR": 211,
+    "Stadtteil": "Neckarvorstadt",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 128,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "7,0"
+  },
+  {
+    "STADTTEILNR": 212,
+    "Stadtteil": "Pragstra�e",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 213,
+    "Stadtteil": "Altenburg",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 1,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,1"
+  },
+  {
+    "STADTTEILNR": 214,
+    "Stadtteil": "Hallschlag",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 631,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "17,7"
+  },
+  {
+    "STADTTEILNR": 215,
+    "Stadtteil": "Birken�cker",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 335,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "17,5"
+  },
+  {
+    "STADTTEILNR": 221,
+    "Stadtteil": "Burgholzhof",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 187,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "16,2"
+  },
+  {
+    "STADTTEILNR": 231,
+    "Stadtteil": "Sommerrain",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 241,
+    "Stadtteil": "Steinhaldenfeld",
+    "Stadtbezirk Nr.": "06",
+    "Stadtbezirk": "Bad Cannstatt",
+    "Anz_Sozialmietwohnungen": 46,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,9"
+  },
+  {
+    "STADTTEILNR": 261,
+    "Stadtteil": "Birkach-Nord",
+    "Stadtbezirk Nr.": "07",
+    "Stadtbezirk": "Birkach",
+    "Anz_Sozialmietwohnungen": 136,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "13,0"
+  },
+  {
+    "STADTTEILNR": 262,
+    "Stadtteil": "Birkach-S�d",
+    "Stadtbezirk Nr.": "07",
+    "Stadtbezirk": "Birkach",
+    "Anz_Sozialmietwohnungen": 91,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "4,4"
+  },
+  {
+    "STADTTEILNR": 271,
+    "Stadtteil": "Sch�nberg",
+    "Stadtbezirk Nr.": "07",
+    "Stadtbezirk": "Birkach",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 292,
+    "Stadtteil": "Botnang-Nord",
+    "Stadtbezirk Nr.": "08",
+    "Stadtbezirk": "Botnang",
+    "Anz_Sozialmietwohnungen": 290,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "16,8"
+  },
+  {
+    "STADTTEILNR": 293,
+    "Stadtteil": "Botnang-Ost",
+    "Stadtbezirk Nr.": "08",
+    "Stadtbezirk": "Botnang",
+    "Anz_Sozialmietwohnungen": 65,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "4,0"
+  },
+  {
+    "STADTTEILNR": 294,
+    "Stadtteil": "Botnang-S�d",
+    "Stadtbezirk Nr.": "08",
+    "Stadtbezirk": "Botnang",
+    "Anz_Sozialmietwohnungen": 38,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,6"
+  },
+  {
+    "STADTTEILNR": 295,
+    "Stadtteil": "Botnang-West",
+    "Stadtbezirk Nr.": "08",
+    "Stadtbezirk": "Botnang",
+    "Anz_Sozialmietwohnungen": 2,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,2"
+  },
+  {
+    "STADTTEILNR": 311,
+    "Stadtteil": "Degerloch",
+    "Stadtbezirk Nr.": "09",
+    "Stadtbezirk": "Degerloch",
+    "Anz_Sozialmietwohnungen": 158,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,4"
+  },
+  {
+    "STADTTEILNR": 312,
+    "Stadtteil": "Waldau",
+    "Stadtbezirk Nr.": "09",
+    "Stadtbezirk": "Degerloch",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 313,
+    "Stadtteil": "Tr�nke",
+    "Stadtbezirk Nr.": "09",
+    "Stadtbezirk": "Degerloch",
+    "Anz_Sozialmietwohnungen": 16,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "11,3"
+  },
+  {
+    "STADTTEILNR": 314,
+    "Stadtteil": "Haigst",
+    "Stadtbezirk Nr.": "09",
+    "Stadtbezirk": "Degerloch",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 321,
+    "Stadtteil": "Hoffeld",
+    "Stadtbezirk Nr.": "09",
+    "Stadtbezirk": "Degerloch",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 341,
+    "Stadtteil": "Feuerbach-Ost",
+    "Stadtbezirk Nr.": 10,
+    "Stadtbezirk": "Feuerbach",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 342,
+    "Stadtteil": "Siegelberg",
+    "Stadtbezirk Nr.": 10,
+    "Stadtbezirk": "Feuerbach",
+    "Anz_Sozialmietwohnungen": 1,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,3"
+  },
+  {
+    "STADTTEILNR": 343,
+    "Stadtteil": "Bahnhof Feuerbach",
+    "Stadtbezirk Nr.": 10,
+    "Stadtbezirk": "Feuerbach",
+    "Anz_Sozialmietwohnungen": 101,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "5,2"
+  },
+  {
+    "STADTTEILNR": 344,
+    "Stadtteil": "Feuerbach-Mitte",
+    "Stadtbezirk Nr.": 10,
+    "Stadtbezirk": "Feuerbach",
+    "Anz_Sozialmietwohnungen": 95,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,6"
+  },
+  {
+    "STADTTEILNR": 345,
+    "Stadtteil": "Lemberg/F�hrich",
+    "Stadtbezirk Nr.": 10,
+    "Stadtbezirk": "Feuerbach",
+    "Anz_Sozialmietwohnungen": 141,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,7"
+  },
+  {
+    "STADTTEILNR": 346,
+    "Stadtteil": "Hohe Warte",
+    "Stadtbezirk Nr.": 10,
+    "Stadtbezirk": "Feuerbach",
+    "Anz_Sozialmietwohnungen": 225,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "8,6"
+  },
+  {
+    "STADTTEILNR": 347,
+    "Stadtteil": "Feuerbacher Tal",
+    "Stadtbezirk Nr.": 10,
+    "Stadtbezirk": "Feuerbach",
+    "Anz_Sozialmietwohnungen": 17,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,6"
+  },
+  {
+    "STADTTEILNR": 348,
+    "Stadtteil": "An der Burg",
+    "Stadtbezirk Nr.": 10,
+    "Stadtbezirk": "Feuerbach",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 361,
+    "Stadtteil": "Hedelfingen",
+    "Stadtbezirk Nr.": 11,
+    "Stadtbezirk": "Hedelfingen",
+    "Anz_Sozialmietwohnungen": 60,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,2"
+  },
+  {
+    "STADTTEILNR": 362,
+    "Stadtteil": "Hafen",
+    "Stadtbezirk Nr.": 11,
+    "Stadtbezirk": "Hedelfingen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 371,
+    "Stadtteil": "Lederberg",
+    "Stadtbezirk Nr.": 11,
+    "Stadtbezirk": "Hedelfingen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 381,
+    "Stadtteil": "Rohracker",
+    "Stadtbezirk Nr.": 11,
+    "Stadtbezirk": "Hedelfingen",
+    "Anz_Sozialmietwohnungen": 130,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "7,4"
+  },
+  {
+    "STADTTEILNR": 401,
+    "Stadtteil": "M�hringen-Nord",
+    "Stadtbezirk Nr.": 12,
+    "Stadtbezirk": "M�hringen",
+    "Anz_Sozialmietwohnungen": 40,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,3"
+  },
+  {
+    "STADTTEILNR": 402,
+    "Stadtteil": "M�hringen-Mitte",
+    "Stadtbezirk Nr.": 12,
+    "Stadtbezirk": "M�hringen",
+    "Anz_Sozialmietwohnungen": 35,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,8"
+  },
+  {
+    "STADTTEILNR": 403,
+    "Stadtteil": "Wallgraben-Ost",
+    "Stadtbezirk Nr.": 12,
+    "Stadtbezirk": "M�hringen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 404,
+    "Stadtteil": "M�hringen-S�d",
+    "Stadtbezirk Nr.": 12,
+    "Stadtbezirk": "M�hringen",
+    "Anz_Sozialmietwohnungen": 6,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,3"
+  },
+  {
+    "STADTTEILNR": 405,
+    "Stadtteil": "M�hringen-Ost",
+    "Stadtbezirk Nr.": 12,
+    "Stadtbezirk": "M�hringen",
+    "Anz_Sozialmietwohnungen": 64,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,9"
+  },
+  {
+    "STADTTEILNR": 406,
+    "Stadtteil": "Sternh�ule",
+    "Stadtbezirk Nr.": 12,
+    "Stadtbezirk": "M�hringen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 407,
+    "Stadtteil": "Fasanenhof-Ost",
+    "Stadtbezirk Nr.": 12,
+    "Stadtbezirk": "M�hringen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 411,
+    "Stadtteil": "Fasanenhof",
+    "Stadtbezirk Nr.": 12,
+    "Stadtbezirk": "M�hringen",
+    "Anz_Sozialmietwohnungen": 331,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "8,9"
+  },
+  {
+    "STADTTEILNR": 421,
+    "Stadtteil": "Sonnenberg",
+    "Stadtbezirk Nr.": 12,
+    "Stadtbezirk": "M�hringen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 441,
+    "Stadtteil": "M�hlhausen",
+    "Stadtbezirk Nr.": 13,
+    "Stadtbezirk": "M�hlhausen",
+    "Anz_Sozialmietwohnungen": 17,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,1"
+  },
+  {
+    "STADTTEILNR": 451,
+    "Stadtteil": "Freiberg",
+    "Stadtbezirk Nr.": 13,
+    "Stadtbezirk": "M�hlhausen",
+    "Anz_Sozialmietwohnungen": 395,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "10,8"
+  },
+  {
+    "STADTTEILNR": 461,
+    "Stadtteil": "M�nchfeld",
+    "Stadtbezirk Nr.": 13,
+    "Stadtbezirk": "M�hlhausen",
+    "Anz_Sozialmietwohnungen": 56,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,6"
+  },
+  {
+    "STADTTEILNR": 471,
+    "Stadtteil": "Hofen",
+    "Stadtbezirk Nr.": 13,
+    "Stadtbezirk": "M�hlhausen",
+    "Anz_Sozialmietwohnungen": 28,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,2"
+  },
+  {
+    "STADTTEILNR": 481,
+    "Stadtteil": "Neugereut",
+    "Stadtbezirk Nr.": 13,
+    "Stadtbezirk": "M�hlhausen",
+    "Anz_Sozialmietwohnungen": 624,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "17,8"
+  },
+  {
+    "STADTTEILNR": 501,
+    "Stadtteil": "M�nster",
+    "Stadtbezirk Nr.": 14,
+    "Stadtbezirk": "M�nster",
+    "Anz_Sozialmietwohnungen": 21,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,6"
+  },
+  {
+    "STADTTEILNR": 521,
+    "Stadtteil": "Obert�rkheim",
+    "Stadtbezirk Nr.": 15,
+    "Stadtbezirk": "Obert�rkheim",
+    "Anz_Sozialmietwohnungen": 254,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "9,3"
+  },
+  {
+    "STADTTEILNR": 531,
+    "Stadtteil": "Uhlbach",
+    "Stadtbezirk Nr.": 15,
+    "Stadtbezirk": "Obert�rkheim",
+    "Anz_Sozialmietwohnungen": 12,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,8"
+  },
+  {
+    "STADTTEILNR": 551,
+    "Stadtteil": "Plieningen",
+    "Stadtbezirk Nr.": 16,
+    "Stadtbezirk": "Plieningen",
+    "Anz_Sozialmietwohnungen": 17,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,4"
+  },
+  {
+    "STADTTEILNR": 552,
+    "Stadtteil": "Chausseefeld",
+    "Stadtbezirk Nr.": 16,
+    "Stadtbezirk": "Plieningen",
+    "Anz_Sozialmietwohnungen": 134,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "25,1"
+  },
+  {
+    "STADTTEILNR": 561,
+    "Stadtteil": "Steckfeld",
+    "Stadtbezirk Nr.": 16,
+    "Stadtbezirk": "Plieningen",
+    "Anz_Sozialmietwohnungen": 46,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,8"
+  },
+  {
+    "STADTTEILNR": 571,
+    "Stadtteil": "Asemwald",
+    "Stadtbezirk Nr.": 16,
+    "Stadtbezirk": "Plieningen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 581,
+    "Stadtteil": "Hohenheim",
+    "Stadtbezirk Nr.": 16,
+    "Stadtbezirk": "Plieningen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 601,
+    "Stadtteil": "Sillenbuch",
+    "Stadtbezirk Nr.": 17,
+    "Stadtbezirk": "Sillenbuch",
+    "Anz_Sozialmietwohnungen": 13,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,3"
+  },
+  {
+    "STADTTEILNR": 611,
+    "Stadtteil": "Heumaden",
+    "Stadtbezirk Nr.": 17,
+    "Stadtbezirk": "Sillenbuch",
+    "Anz_Sozialmietwohnungen": 191,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,7"
+  },
+  {
+    "STADTTEILNR": 621,
+    "Stadtteil": "Riedenberg",
+    "Stadtbezirk Nr.": 17,
+    "Stadtbezirk": "Sillenbuch",
+    "Anz_Sozialmietwohnungen": 428,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "11,2"
+  },
+  {
+    "STADTTEILNR": 641,
+    "Stadtteil": "Stammheim-S�d",
+    "Stadtbezirk Nr.": 18,
+    "Stadtbezirk": "Stammheim",
+    "Anz_Sozialmietwohnungen": 78,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,0"
+  },
+  {
+    "STADTTEILNR": 642,
+    "Stadtteil": "Stammheim-Mitte",
+    "Stadtbezirk Nr.": 18,
+    "Stadtbezirk": "Stammheim",
+    "Anz_Sozialmietwohnungen": 266,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "7,6"
+  },
+  {
+    "STADTTEILNR": 661,
+    "Stadtteil": "Gehrenwald",
+    "Stadtbezirk Nr.": 19,
+    "Stadtbezirk": "Untert�rkheim",
+    "Anz_Sozialmietwohnungen": 14,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,9"
+  },
+  {
+    "STADTTEILNR": 662,
+    "Stadtteil": "Flohberg",
+    "Stadtbezirk Nr.": 19,
+    "Stadtbezirk": "Untert�rkheim",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 663,
+    "Stadtteil": "Untert�rkheim",
+    "Stadtbezirk Nr.": 19,
+    "Stadtbezirk": "Untert�rkheim",
+    "Anz_Sozialmietwohnungen": 145,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,8"
+  },
+  {
+    "STADTTEILNR": 664,
+    "Stadtteil": "Benzviertel",
+    "Stadtbezirk Nr.": 19,
+    "Stadtbezirk": "Untert�rkheim",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 665,
+    "Stadtteil": "Lindenschulviertel",
+    "Stadtbezirk Nr.": 19,
+    "Stadtbezirk": "Untert�rkheim",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 666,
+    "Stadtteil": "Bruckwiesen",
+    "Stadtbezirk Nr.": 19,
+    "Stadtbezirk": "Untert�rkheim",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "#DIV/0!"
+  },
+  {
+    "STADTTEILNR": 671,
+    "Stadtteil": "Luginsland",
+    "Stadtbezirk Nr.": 19,
+    "Stadtbezirk": "Untert�rkheim",
+    "Anz_Sozialmietwohnungen": 101,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "7,1"
+  },
+  {
+    "STADTTEILNR": 681,
+    "Stadtteil": "Rotenberg",
+    "Stadtbezirk Nr.": 19,
+    "Stadtbezirk": "Untert�rkheim",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 711,
+    "Stadtteil": "Vaihingen-Mitte",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 73,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,8"
+  },
+  {
+    "STADTTEILNR": 712,
+    "Stadtteil": "�sterfeld",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 713,
+    "Stadtteil": "H�henrand",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 714,
+    "Stadtteil": "Wallgraben-West",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 2,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,4"
+  },
+  {
+    "STADTTEILNR": 715,
+    "Stadtteil": "Rosental",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 168,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "8,7"
+  },
+  {
+    "STADTTEILNR": 716,
+    "Stadtteil": "Heerstra�e",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 30,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,1"
+  },
+  {
+    "STADTTEILNR": 717,
+    "Stadtteil": "Lauch�cker",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 440,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "38,7"
+  },
+  {
+    "STADTTEILNR": 718,
+    "Stadtteil": "Dachswald",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 78,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,9"
+  },
+  {
+    "STADTTEILNR": 719,
+    "Stadtteil": "Pfaffenwald",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 105,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "4,0"
+  },
+  {
+    "STADTTEILNR": 721,
+    "Stadtteil": "B�snau",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 197,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "14,6"
+  },
+  {
+    "STADTTEILNR": 731,
+    "Stadtteil": "Rohr",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 19,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,4"
+  },
+  {
+    "STADTTEILNR": 741,
+    "Stadtteil": "D�rrlewang",
+    "Stadtbezirk Nr.": 20,
+    "Stadtbezirk": "Vaihingen",
+    "Anz_Sozialmietwohnungen": 222,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "10,9"
+  },
+  {
+    "STADTTEILNR": 761,
+    "Stadtteil": "Wangen",
+    "Stadtbezirk Nr.": 21,
+    "Stadtbezirk": "Wangen",
+    "Anz_Sozialmietwohnungen": 158,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,4"
+  },
+  {
+    "STADTTEILNR": 801,
+    "Stadtteil": "Weilimdorf",
+    "Stadtbezirk Nr.": 22,
+    "Stadtbezirk": "Weilimdorf",
+    "Anz_Sozialmietwohnungen": 856,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "10,3"
+  },
+  {
+    "STADTTEILNR": 802,
+    "Stadtteil": "Weilimdorf-Nord",
+    "Stadtbezirk Nr.": 22,
+    "Stadtbezirk": "Weilimdorf",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 811,
+    "Stadtteil": "Bergheim",
+    "Stadtbezirk Nr.": 22,
+    "Stadtbezirk": "Weilimdorf",
+    "Anz_Sozialmietwohnungen": 8,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,5"
+  },
+  {
+    "STADTTEILNR": 821,
+    "Stadtteil": "Giebel",
+    "Stadtbezirk Nr.": 22,
+    "Stadtbezirk": "Weilimdorf",
+    "Anz_Sozialmietwohnungen": 215,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "7,5"
+  },
+  {
+    "STADTTEILNR": 831,
+    "Stadtteil": "Hausen",
+    "Stadtbezirk Nr.": 22,
+    "Stadtbezirk": "Weilimdorf",
+    "Anz_Sozialmietwohnungen": 235,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "17,5"
+  },
+  {
+    "STADTTEILNR": 841,
+    "Stadtteil": "Wolfbusch",
+    "Stadtbezirk Nr.": 22,
+    "Stadtbezirk": "Weilimdorf",
+    "Anz_Sozialmietwohnungen": 39,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,0"
+  },
+  {
+    "STADTTEILNR": 861,
+    "Stadtteil": "Zuffenhausen-Am Stadtpark",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": 196,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "11,9"
+  },
+  {
+    "STADTTEILNR": 862,
+    "Stadtteil": "Zuffenhausen-Sch�tzenb�hl",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": 15,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "1,8"
+  },
+  {
+    "STADTTEILNR": 863,
+    "Stadtteil": "Zuffenhausen-Elbelen",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": 9,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,7"
+  },
+  {
+    "STADTTEILNR": 864,
+    "Stadtteil": "Zuffenhausen-Frauensteg",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 865,
+    "Stadtteil": "Zuffenhausen-Mitte",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": 86,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "2,6"
+  },
+  {
+    "STADTTEILNR": 866,
+    "Stadtteil": "Zuffenhausen-Hohenstein",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": 51,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "3,0"
+  },
+  {
+    "STADTTEILNR": 867,
+    "Stadtteil": "Zuffenhausen-M�nchsberg",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": 549,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "25,5"
+  },
+  {
+    "STADTTEILNR": 868,
+    "Stadtteil": "Zuffenhausen-Im Raiser",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": 42,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "9,2"
+  },
+  {
+    "STADTTEILNR": 871,
+    "Stadtteil": "Neuwirtshaus",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": "",
+    "AntSozmietwohnungen_am_Wohnungsbestand": "0,0"
+  },
+  {
+    "STADTTEILNR": 881,
+    "Stadtteil": "Rot",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": 395,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "7,3"
+  },
+  {
+    "STADTTEILNR": 891,
+    "Stadtteil": "Zazenhausen",
+    "Stadtbezirk Nr.": 23,
+    "Stadtbezirk": "Zuffenhausen",
+    "Anz_Sozialmietwohnungen": 115,
+    "AntSozmietwohnungen_am_Wohnungsbestand": "9,6"
+  }
+]
