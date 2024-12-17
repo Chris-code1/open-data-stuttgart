@@ -37,49 +37,54 @@ function App() {
 
   return (
     <ThemeProvider theme={theme}>
-      <CssBaseline />
-      <Box sx={{ flexGrow: 1 }}>
-        <AppBar position="static">
-          <Toolbar>
-            <IconButton
-              size="large"
-              edge="start"
-              color="inherit"
-              aria-label="menu"
-              sx={{ mr: 2 }}
-            >
-            </IconButton>
-            <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Material UI Demo
-            </Typography>
-            <Button color="inherit">Login</Button>
-          </Toolbar>
-        </AppBar>
-
-        <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
-          <Grid container spacing={3}>
-            {cards.map((card, index) => (
-              <Grid item xs={12} md={4} key={index}>
-                <Card>
-                  <CardContent>
-                    <Typography variant="h5" component="div">
-                      {card.title}
-                    </Typography>
-                    <Typography variant="body2">
-                      {card.content}
-                    </Typography>
-                  </CardContent>
-                </Card>
-              </Grid>
-            ))}
-            {<Grid item xs={12}>
-              <DataChart />
-            </Grid>}
-            <MapComponent />
+    <CssBaseline />
+    <Box sx={{ flexGrow: 1 }}>
+      <AppBar position="static">
+        <Toolbar>
+          <IconButton
+            size="large"
+            edge="start"
+            color="inherit"
+            aria-label="menu"
+            sx={{ mr: 2 }}
+          >
+          </IconButton>
+          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+            Material UI Demo
+          </Typography>
+          <Button color="inherit">Login</Button>
+        </Toolbar>
+      </AppBar>
+  
+      <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
+        <Grid container spacing={3}>
+          {cards.map((card, index) => (
+            <Grid item xs={12} md={4} key={index}>
+              <Card>
+                <CardContent>
+                  <Typography variant="h5" component="div">
+                    {card.title}
+                  </Typography>
+                  <Typography variant="body2">
+                    {card.content}
+                  </Typography>
+                </CardContent>
+              </Card>
+            </Grid>
+          ))}
+          <Grid item xs={12}>
+            <DataChart />
           </Grid>
-        </Container>
-      </Box>
-    </ThemeProvider>
+          <Grid item xs={12} md={6}>
+            <MapComponent variableName='AntSozmietwohnungen_am_Wohnungsbestand' title='Anteil Sozialmietwohnungen am Wohnungsbestand' max={16}/>
+          </Grid>
+          <Grid item xs={12} md={6}>
+            <MapComponent variableName="Anz_Sozialmietwohnungen" title="Anzahl Sozialmietwohnungen" max={400}/>
+          </Grid>
+        </Grid>
+      </Container>
+    </Box>
+  </ThemeProvider>
   );
 }
 
