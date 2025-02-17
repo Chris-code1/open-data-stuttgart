@@ -106,14 +106,14 @@ const MapComponent: React.FC<MapComponentProps> = ({ variableName, title, max })
       <Legend />
       {/* <TileLayer url="https://{s}.basemaps.cartocdn.com/rastertiles/dark_nolabels/{z}/{x}/{y}.png" /> */}
       {/* <TileLayer url="https://tiles.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}{r}.png" /> */}
-      {/* <TileLayer
+      <TileLayer
       attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-    /> */}
-    <TileLayer
+    />
+    {/* <TileLayer
       attribution='&copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a>, &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>'
       url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}@2x.png"
-    />
+    /> */}
       <GeoJSON data={geojsonData as GeoJsonObject} style={style} onEachFeature={onEachFeature}/> 
   </MapContainer>
   );
