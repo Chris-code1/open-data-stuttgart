@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/open-data-stuttgart/static/css/main.6a7b8872.css",
-    "main.js": "/open-data-stuttgart/static/js/main.acb09ea7.js",
+    "main.js": "/open-data-stuttgart/static/js/main.25734167.js",
     "index.html": "/open-data-stuttgart/index.html",
     "main.6a7b8872.css.map": "/open-data-stuttgart/static/css/main.6a7b8872.css.map",
-    "main.acb09ea7.js.map": "/open-data-stuttgart/static/js/main.acb09ea7.js.map"
+    "main.25734167.js.map": "/open-data-stuttgart/static/js/main.25734167.js.map"
   },
   "entrypoints": [
     "static/css/main.6a7b8872.css",
-    "static/js/main.acb09ea7.js"
+    "static/js/main.25734167.js"
   ]
 }
