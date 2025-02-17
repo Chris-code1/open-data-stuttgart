@@ -80,7 +80,7 @@ function App() {
             <StatsChart />
           </Grid>
           <Grid item xs={12} md={6}>
-            <MapComponent variableName='AntSozmietwohnungen_am_Wohnungsbestand' title='Anteil Sozialmietwohnungen am Wohnungsbestand' max={16}/>
+            <MapComponent variableName='AntSozmietwohnungen_am_Wohnungsbestand' title='Anteil Sozialmietwohnungen am Wohnungsbestand in %' max={16}/>
           </Grid>
           <Grid item xs={12} md={6}>
             <MapComponent variableName="Anz_Sozialmietwohnungen" title="Anzahl Sozialmietwohnungen" max={400}/>

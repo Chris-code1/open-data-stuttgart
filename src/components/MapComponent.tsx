@@ -46,7 +46,7 @@ const MapComponent: React.FC<MapComponentProps> = ({ variableName, title, max })
     const popupContent = `
     <strong>${STADTTEILNAME}</strong><br>
     Stadtbezirk: ${STADTBEZIRKNAME}<br>
-    Anteil Sozmietwohnungen am Wohnungsbestand: ${AntSozmietwohnungen_am_Wohnungsbestand}<br>
+    Anteil Sozmietwohnungen am Wohnungsbestand: ${AntSozmietwohnungen_am_Wohnungsbestand} %<br>
     Anzahl Sozialmietwohnungen: ${Anz_Sozialmietwohnungen}`;
   
     layer.on('mouseover', function () {
